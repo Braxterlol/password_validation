@@ -1,7 +1,7 @@
 # Reporte de Práctica: Sistema de Verificación de Contraseñas
 
 ## Información General
-- **Estudiante**: Livia Ramos
+- **Estudiante**: Bryam Ramos
 - **Materia**: Seguridad de la Información
 - **Práctica**: Evaluación de Fortaleza de Contraseñas
 - **Fecha**: 17 de Octubre, 2025
